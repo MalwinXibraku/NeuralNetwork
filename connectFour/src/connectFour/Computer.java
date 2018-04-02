@@ -3,6 +3,7 @@ package connectFour;
 public class Computer extends AI{
 private final int stoneValue;
     
+// DAS IST EIN TEST
     public Computer(Network network, int stoneValue) {
         super(network);
         this.stoneValue = stoneValue;
